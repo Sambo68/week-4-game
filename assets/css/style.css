@@ -1,0 +1,38 @@
+p {
+	text-align: center;
+}
+
+h4 {
+	text-align: center;
+}
+
+img {
+  cursor: pointer;
+}
+
+.total {
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.addition {
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	color: purple;
+}
+
+#wins {
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	color: green;
+}
+
+#losses {
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	color: red;
+}
