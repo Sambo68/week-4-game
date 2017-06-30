@@ -8,6 +8,13 @@ h4 {
 
 img {
   cursor: pointer;
+  display: block;
+  margin: auto;
+}
+
+#stars {
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 .total {
